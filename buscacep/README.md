@@ -1,1 +1,1 @@
-App buscador de CEP criando com React
+App buscador de CEP criado com React
